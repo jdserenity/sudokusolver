@@ -1,0 +1,1 @@
+puzzles_database = './17puz49158.txt'
