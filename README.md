@@ -1,4 +1,4 @@
-## sudokusolver
+# sudokusolver
 
 Currently this works for puzzles up to 5 star difficulty level in the USA TODAY Jumbo Puzzle Book 2. (Which also happens to have been the inspiration for this project).
 
