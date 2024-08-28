@@ -7,9 +7,11 @@ Super simple, a little under 200 lines. You've probably seen one of these before
 That probably means that this isn't the fast way of implementing a sudoku solver, and admittedly it doesn't solve super scary puzzles with like only 17 givens, but I enjoyed building this and trying to figure out how to make it work from zero to one!
 
 Example unsolved:
+
 ![Image of an unsolved puzzle](/readme_unsolved_puzzle.png)
 
 Solved:
+
 ![Image of the same puzzle solved by the sudoku solver, and how much time it took](/readme_solved_puzzle.png)
 
 As you can see it's very fast.
